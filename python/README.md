@@ -6,6 +6,8 @@
 
 - [Python 01 Code Challenge](./code_challenges/array_reverse/README.md)
 
+- [Python 02 Code Challenge](./code_challenges/array_shift/README.md)
+
 ### Folder and Challenge Setup
 
 Each type of code challenge has slightly different instructions. Please refer to the notes and examples below for instructions for each DS&A assignment type.
